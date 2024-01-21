@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b9e98f3-519f-4316-b4b3-adc4c69dd60d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Javascript_course/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javascript_course/webpack/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javascript_course/webpack/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Javascript_course/webpack/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/RestaurantPage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/coffeeCUp2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/coffeecup.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/contactPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/darkCoffee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/homePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/loadHomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/marge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/menuPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestaurantPage/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dd/dd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/randomTet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../randomTet/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/Calculator/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/Calculator/calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/FormAttempt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/FormAttempt/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/Javascript_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/Javascript_course.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/frontpage2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/frontpage2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/images/marge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/images/uvu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/nikeForm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/nikeForm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Javascript_course/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Javascript_course/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculatorApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalculatorApp/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SimpleCalculatorApp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleCalculatorApp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gg/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../gg/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2bHQvb0ShZFfaHBPdYipim2he1Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "FIx-optimising-code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b9e98f3-519f-4316-b4b3-adc4c69dd60d" name="Changes" comment="" />
+      <created>1705869758313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705869758313</updated>
+      <workItem from="1705869759494" duration="444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

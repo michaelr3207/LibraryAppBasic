@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Holy Grail</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="searchBar">
+            <img src=".././../images/magnify.png">
+            <input class="inputBox" type="text" id="nameBox" name="searchBox">
+            <div class="iconBar">
+                <img src=".././../images/bell-outline.png">
+                <img src=".././../images/facebook-messenger.png">
+                <div class="userName">
+                    Morgan Oakley
+                </div>
+            </div>
+        </div>
+        <div class="secondRow">
+            <div class="personDetails">
+                <img src=".././../images/fbFace.jpg">
+                <div class="details">
+                    <span class="hi">Hi There</span>
+                    <div class="personName">
+                        Morgan Oakley (@MOakley)
+                    </div>
+                </div>
+            </div>
+            <div class="navButtons">
+                <button class="firstBtn" onclick="addBookForm()">New</button>
+                <button>Upload</button>
+                <button>Share</button>
+            </div>
+        </div>
+
+    </div>
+    <div class="sidebar">
+       <div class="sidebarLogoAndTitle">
+           <div class="sidebarDashImg">
+               <img src=".././../images/view-dashboard.png" style="filter: brightness(0) invert(1);">
+           </div>
+           <div class="dashTitle">
+               Library App
+           </div>
+       </div>
+
+        <div class="sidebarGrid1">
+            <div class="sidebarBtn">
+                <img src=".././../images/home-outline.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Home
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/account-details.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Profile
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/message.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Messages
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/clock-time-four.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    History
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/calendar-check-outline.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Task
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/account-group.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    People
+                </div>
+            </div>
+        </div>
+
+        <div class="sidebarGrid2">
+            <div class="sidebarBtn">
+                <img src=".././../images/cog-outline.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Settings
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/help-box.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Support
+                </div>
+            </div>
+            <div class="sidebarBtn">
+                <img src=".././../images/shield-check-outline.png" style="filter: brightness(0) invert(1);">
+                <div class="sidebarBtnTitle">
+                    Privacy
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="article">
+        <div class="section1">
+            <div class="headerForSection1">
+                Your Projects
+            </div>
+            <div class="cardGrid" id="cardContainer">
+            </div>
+    </div>
+</div>
+
+
+</div>
+<div class="hide" id="bookForm">
+    <button onclick="closeBookForm()">X</button>
+    <div class="formBox">
+        <label for="title">Book Title</label>
+        <input type="text" id="title" name="title" placeholder="Title">
+        <label for="author">Book Author</label>
+        <input type="text" id="author" name="author" placeholder="Author">
+        <label for="numberPages">Pages</label>
+        <input type="text" id="numberPages" name="pages" placeholder="Number of pages">
+        <label id="sPrefLab" for="read">Have you read?</label>
+        <select name="readOrNot" id="read">
+            <optgroup label="Answer">
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </optgroup>
+        </select>
+        <button class="addBookBtn" onclick="gatherBookDataAndSubmit()">ADD</button>
+    </div>
+</div>
+<div class="footer">
+    brijj
+</div>
+</body>
+</html>
+
+<script src="app.js"></script>
+
+
